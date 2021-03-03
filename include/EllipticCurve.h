@@ -19,7 +19,6 @@ public:
     Point& _scalar(Point& R, const Point& P,Integer k);
 
     bool verifyPoint(const Point& P) const;
-    void printPoint(const Point& P);
     void print();
 
 };
