@@ -36,7 +36,7 @@ build:
 	@echo "[*] 🛠   Building           "
 	@echo 
 	@mkdir -p $(OBJ_DIR)
-	@mkdir -p $(OBJ_DIR)
+	@mkdir -p $(BIN_DIR)
 
 clean:
 	@echo "[*] 🧻🧻 Cleaning           "
